@@ -1,0 +1,1 @@
+window.prompt("Eu amo pipoquinha");
